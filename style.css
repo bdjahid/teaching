@@ -13,6 +13,16 @@ h1,h2,h3,h4,h5,h6{
     padding: 1% 10%;
     background-color: rgba(0,0, 0, 0.3);
 }
+.section-title h2{
+    font-weight: bolder;
+    margin-bottom: 0;
+}
+.hr-style{
+    border: 5px dotted white;
+    border-bottom: none;
+    width: 50px;
+    border-color: rgb(12, 12, 12);
+}
 navbar-icon{
     color: white;
 }
@@ -43,4 +53,17 @@ header{
 }
 .icon-style{
     background-color: rgb(196, 127, 150);
+}
+.about-me{
+    padding: 4% 10%;
+    background: #e8ded2;
+}
+.about-me p{
+    margin-bottom: 0;
+    font-size: 0.9rem;
+    font-weight: light;
+}
+.star{
+    width: 20px;
+    color: wheat;
 }
