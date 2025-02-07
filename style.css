@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: "Roboto", serif;
+}
+h1,h2,h3,h4,h5,h6{
+
+}
+.navbar{
+    padding: 1% 10%;
+    background-color: rgba(0,0, 0, 0.3);
+}
+navbar-icon{
+    color: white;
+}
+.navbar-brand img{
+    width: 80px;
+    height: auto;
+}
+.nav-link {
+    color: rgb(73, 66, 66);
+    margin: 10px;
+    border-radius: 5px;
+    transition: .4s;
+}
+.nav-link {
+ background: rgb(201, 190, 190);
+ color: aliceblue;
+ transform: scale(1.1);
+}
+header{
+    background-image: url("image/bnr.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-container{
+    height: 100vh;
+}
