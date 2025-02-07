@@ -41,3 +41,6 @@ header{
 .banner-container{
     height: 100vh;
 }
+.icon-style{
+    background-color: rgb(196, 127, 150);
+}
