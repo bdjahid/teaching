@@ -67,3 +67,8 @@ header{
     width: 20px;
     color: wheat;
 }
+
+#feedback{
+    padding: 5%;
+    background-color: rgb(65, 152, 155);
+}
