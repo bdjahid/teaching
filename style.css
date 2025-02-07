@@ -76,3 +76,14 @@ header{
     padding: 2% 10%;
     background: rgb(120, 181, 184);
 }
+footer{
+    padding: 1% 10%;
+    background-color: rgb(106, 218, 226);
+}
+footer a{
+    color: white;
+    margin: 0 10px;
+}
+footer a:hover{
+    color: rgb(133, 115, 115);
+}
